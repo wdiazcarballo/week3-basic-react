@@ -1,0 +1,40 @@
+เครื่องมือที่จำเป็นสำหรับการตั้งค่า Environment สำหรับการพัฒนา React มีดังนี้:
+
+### 1. **React Developer Tools**
+   - **สำหรับ Chrome**: 
+     - ไปที่ Chrome Web Store
+     - ค้นหาและติดตั้ง "React Developer Tools"
+     - คลิก "Add to Chrome" และ "Add extension"
+     - เมื่อติดตั้งเสร็จแล้ว จะเห็นไอคอน React Developer Tools ที่มุมขวาบนของเบราว์เซอร์
+     - หากเปิดหน้าเว็บที่ใช้ React ไอคอนจะแสดงว่ามี React ทำงานอยู่
+     - สามารถเปิด Developer Tools (คลิกขวา -> Inspect) และดูแท็บ "Components" และ "Profiler" สำหรับการดีบักและวิเคราะห์ประสิทธิภาพ
+
+   - **สำหรับ Firefox**:
+     - ไปที่ Mozilla Add-ons
+     - ค้นหาและติดตั้ง "React Developer Tools" สำหรับ Firefox
+
+### 2. **Visual Studio Code (VS Code)**
+   - **ติดตั้ง VS Code**: ดาวน์โหลดและติดตั้ง VS Code จาก [เว็บไซต์ทางการ](https://code.visualstudio.com/)
+   - **ติดตั้ง Extension Prettier**:
+     - เปิด VS Code
+     - ไปที่ Extensions (Ctrl+Shift+X หรือ Command+Shift+X บน Mac)
+     - ค้นหาและติดตั้ง "Prettier" สำหรับการจัดรูปแบบโค้ดอัตโนมัติ
+     - เปิด Settings (Ctrl+, หรือ Command+, บน Mac) และค้นหา "format on save" เพื่อเปิดใช้งานการจัดรูปแบบโค้ดทุกครั้งที่บันทึกไฟล์
+   - **ติดตั้ง Theme Night Owl**:
+     - ไปที่ Extensions
+     - ค้นหาและติดตั้ง "Night Owl" theme
+     - ตั้งค่าเป็นธีมหลักโดยไปที่ Command Palette (Ctrl+Shift+P หรือ Command+Shift+P บน Mac) และเลือก "Preferences: Color Theme" แล้วเลือก "Night Owl"
+     - หากต้องการธีมโหมดสว่าง สามารถเลือก "Light Owl" แทนได้
+
+### 3. **CodeSandbox (ทางเลือก)**
+   - **ใช้งาน CodeSandbox**: 
+     - ไปที่ [react.new](https://react.new) เพื่อเปิดโปรเจกต์ React ใหม่ในเบราว์เซอร์
+     - CodeSandbox เป็นเครื่องมือในเบราว์เซอร์ที่ช่วยให้คุณสามารถเขียนโค้ดและทดสอบ React ได้โดยไม่ต้องติดตั้งอะไรเพิ่มเติม
+     - สามารถลงชื่อเข้าใช้ด้วย GitHub, Google, หรือ Apple เพื่อบันทึกการเปลี่ยนแปลง
+
+### สรุปเครื่องมือที่จำเป็น:
+1. **React Developer Tools** (สำหรับ Chrome หรือ Firefox)
+2. **Visual Studio Code** (พร้อม Extension Prettier และ Theme Night Owl)
+3. **CodeSandbox** (ทางเลือกสำหรับการพัฒนาในเบราว์เซอร์)
+
+เครื่องมือเหล่านี้จะช่วยให้คุณพร้อมสำหรับการพัฒนาโปรเจกต์ React ได้อย่างมีประสิทธิภาพ!
